@@ -1,0 +1,16 @@
+.d-flex { display: flex; }
+.al-it-cent { align-items: center; }
+.al-it-st { align-items: start; }
+.al-it-end { align-items: end; }
+.al-cont-betw { align-content: space-between; }
+
+.just-cont-cent { justify-content: center; }
+.just-cont-st { justify-content: start; }
+.just-cont-end { justify-content: end; }
+.just-cont-betw { justify-content: space-between; }
+
+
+.flex-col { flex-direction: column; }
+.flex-row { flex-direction: row; }
+
+.gap {gap: 1.5rem;}
